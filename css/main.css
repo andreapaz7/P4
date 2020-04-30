@@ -1,0 +1,41 @@
+/* DEVELOPER: Andrea Pax, IS117-002, Spring 2020*/
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: lightpink;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-size: 1rem;
+}
+
+.header{
+    background-color: lightpink;
+    color: white;
+}
+
+.navbar-custom,
+.navbar-custom .dropdown-menu{
+    background-color: mistyrose;
+}
+
+.jumbotron{
+    background-image: url("../photos/typing.jpg");
+    background-position: left;
+    background-repeat: no-repeat;
+    background-color: black;
+    color: papayawhip;
+    padding: 5%;
+    text-shadow: black 0px 0px 10px;
+
+}
+.card{
+    margin-bottom: 5rem;
+    margin-top: 1rem;
+    margin-left: 5rem;
+    margin-right: 5rem;
+    background-color: mistyrose;
+}

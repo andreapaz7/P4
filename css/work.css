@@ -1,0 +1,31 @@
+/* DEVELOPER: Andrea Pax, IS117-002, Spring 2020*/
+
+.header{
+    background-color: lightpink;
+    color: papayawhip;
+}
+
+.navbar-custom,
+.navbar-custom .dropdown-menu{
+    background-color: mistyrose;
+}
+
+img{
+    width: 100%;
+    height: fit-content;
+}
+
+
+
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: lightpink;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-size: 1rem;
+}
